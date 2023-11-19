@@ -1,0 +1,5 @@
+opencv-python
+mediapipe
+protobuf
+scikit-learn
+pushbullet
